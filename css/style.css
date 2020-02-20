@@ -290,7 +290,7 @@ a:hover {
 }
 
 #status {
-  background-image: url("../images/00_preloader.GIF");
+  background-image: url("../images/animation.GIF");
   background-position: center center;
   background-repeat: no-repeat;
   height: 80px;
