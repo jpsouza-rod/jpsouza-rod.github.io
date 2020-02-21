@@ -289,8 +289,8 @@ a:hover {
   z-index: 2147483647;
 }
 
-#status {
-  background-image: url("../images/Animation.gif");
+*/#status {
+  background-image: url("../images/#");
   background-position: center center;
   background-repeat: no-repeat;
   height: 80px;
@@ -300,7 +300,7 @@ a:hover {
   width: 80px;
   margin: -40px 0 0 -40px;
 }
-
+*/
 /*end loading style */
 /* ==========================================================================
    Navigation Bar
